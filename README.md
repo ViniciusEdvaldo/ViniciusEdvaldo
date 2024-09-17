@@ -1,12 +1,20 @@
 Olá! Eu sou o Vinicius Edvaldo 👋
+
 Sou apaixonado por tecnologia, programação e por desenvolver soluções criativas para desafios do mundo real. Atualmente, estou me especializando em Análise e Desenvolvimento de Sistemas, e venho acumulando experiência em diversas linguagens de programação e frameworks.
 
+
 Sobre Mim
+
 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
 👨‍💻 Focado em backend e frontend, com projetos que envolvem tecnologias como JavaScript, Node.js, React e Next.js
+
 🚀 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software
+
 🎯 Meus interesses incluem IA, automação e soluções inovadoras para o setor de TI
+
 📚 Cursei desenvolvimento de sistemas no SENAI
+
 ⚡ Fato engraçado: A vaca não dá leite para as crianças porque ela é mão de vaca!
 
 <!---
