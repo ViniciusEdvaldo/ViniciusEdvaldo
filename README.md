@@ -5,15 +5,15 @@ Sou apaixonado por tecnologia, programação e por desenvolver soluções criati
 
 Sobre Mim
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Estudante de Análise e Desenvolvimento de Sistemas;
 
-👨‍💻 Focado em backend e frontend, com projetos que envolvem tecnologias como JavaScript, Node.js, React e Next.js
+👨‍💻 Focado em backend, com projetos que envolvem linguagens como java e Node.js;
 
-🚀 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software
+🚀 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software;
 
-🎯 Meus interesses incluem IA, automação e soluções inovadoras para o setor de TI
+🎯 Meus interesses incluem IA, automação e soluções inovadoras para o setor de TI;
 
-📚 Cursei desenvolvimento de sistemas no SENAI
+📚 Cursei desenvolvimento de sistemas no SENAI;
 
 ⚡ Fato engraçado: A vaca não dá leite para as crianças porque ela é mão de vaca!
 
