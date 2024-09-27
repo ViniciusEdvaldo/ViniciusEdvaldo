@@ -11,7 +11,7 @@ Sobre Mim
 
 🚀 Buscando sempre aprender novas tecnologias e melhorar minhas habilidades em desenvolvimento de software;
 
-🎯 Meus interesses incluem IA, automação e soluções inovadoras para o setor de TI;
+🎯 Meus interesses incluem Java, Arduino e Sistemas ERP;
 
 📚 Cursei desenvolvimento de sistemas no SENAI;
 
