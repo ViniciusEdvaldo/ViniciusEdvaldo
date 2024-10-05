@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="left">Formação</h3>
-
-###
-
-<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
-
-###
-
 <h2 align="left">Tecnologias</h2>
 
 ###
@@ -43,16 +35,24 @@
 
 ###
 
+<h3 align="left">Formação</h3>
+
+###
+
+<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
+
+###
+
 <h2 align="left">Social Media</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/vinícius-edvaldo-252383267/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/vinicius_2128/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vinícius-edvaldo-252383267/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
