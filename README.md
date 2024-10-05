@@ -2,14 +2,6 @@
 
 ###
 
-<h2 align="left">Descrição</h2>
-
-###
-
-<p align="left">Sou apaixonado por tecnologia, programação e por desenvolver soluções criativas para desafios do mundo real. Atualmente, estou me especializando em Análise e Desenvolvimento de Sistemas, e venho acumulando experiência em diversas linguagens de programação e frameworks.</p>
-
-###
-
 <h3 align="left">Formação</h3>
 
 ###
@@ -63,9 +55,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-
 
 ###
