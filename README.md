@@ -1,13 +1,15 @@
 <h1 align="left">Olá! Eu sou o Vinicius Edvaldo 👋</h1>
 
 ###
-<h3 align="left">Formação</h3>
+
+<h2 align="left">Descrição</h2>
 
 ###
 
-<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
+<p align="left">Vinicius Edvaldo é um entusiasta de tecnologia e programação, apaixonado por resolver problemas complexos e criar soluções inovadoras. Atualmente, está se especializando em Análise e Desenvolvimento de Sistemas e foca no desenvolvimento backend, especialmente utilizando Java.</p>
 
 ###
+
 <h2 align="left">Tecnologias</h2>
 
 ###
@@ -30,6 +32,14 @@
 
 ###
 
+<h3 align="left">Formação</h3>
+
+###
+
+<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
+
+###
+
 <h2 align="left">Status</h2>
 
 ###
@@ -40,8 +50,6 @@
 </div>
 
 ###
-
-
 
 <h2 align="left">Social Media</h2>
 
