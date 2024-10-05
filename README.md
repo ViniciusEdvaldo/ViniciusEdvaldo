@@ -1,7 +1,13 @@
 <h1 align="left">Olá! Eu sou o Vinicius Edvaldo 👋</h1>
 
 ###
+<h3 align="left">Formação</h3>
 
+###
+
+<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
+
+###
 <h2 align="left">Tecnologias</h2>
 
 ###
@@ -35,13 +41,7 @@
 
 ###
 
-<h3 align="left">Formação</h3>
 
-###
-
-<p align="left">📚 Formado em Tecnico de  Desenvolvimento de Sistemas no SENAI;<br>💻 Estudante de Análise e Desenvolvimento de Sistemas na UniAmerica;</p>
-
-###
 
 <h2 align="left">Social Media</h2>
 
