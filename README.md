@@ -6,15 +6,15 @@
 
 ###
 
-<img align="right" height="140" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFucTh2NmJ1eW8ydWhrajF3dDQ4cXYyd3pubWplYmU0ZXBreWphYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
-
-###
-
 <p align="left">Vinicius Edvaldo é um entusiasta de tecnologia e programação, apaixonado por resolver problemas complexos e criar soluções inovadoras. Atualmente, está se especializando em Análise e Desenvolvimento de Sistemas e foca no desenvolvimento backend, especialmente utilizando Java.</p>
 
 ###
 
 <h2 align="left">Tecnologias</h2>
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFucTh2NmJ1eW8ydWhrajF3dDQ4cXYyd3pubWplYmU0ZXBreWphYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
